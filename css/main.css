@@ -1,0 +1,319 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Cairo", sans-serif;
+}
+body {
+  height: 5000px;
+}
+.container .collapse .navbar-nav li {
+  padding-right: 20px;
+}
+.container .collapse .navbar-nav li a {
+  color: black !important;
+  font-weight: bold !important;
+  font-size: large;
+}
+.container .collapse .navbar-nav li a:hover {
+  color: #f18125 !important;
+}
+.container .collapse .navbar-nav .nav-item img {
+  width: 60px;
+  height: 60px;
+}
+
+.container .btn-1 button {
+  margin-top: 15px;
+  border: 2px solid #297baf;
+  background: transparent;
+  color: black;
+  font-size: large;
+  width: 126px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+.container .btn-1 button:hover {
+  background-color: #f4a825;
+}
+.section-1 .container {
+  margin-top: 100px;
+}
+.section-1 .container .main {
+  display: flex;
+}
+.section-1 .container .heading-1 {
+  width: 100%;
+  margin-top: 135px;
+}
+.section-1 .container .main img {
+  width: 100%;
+}
+.section-1 .container .main h1 {
+  color: #f4a825;
+  font-size: 84px;
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+.section-1 .container .main h1 span {
+  color: #3485b9;
+}
+.section-1 .container .main p {
+  text-align: end;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+}
+.section-1 .container .main div {
+  text-align: end;
+}
+.section-1 .container .main button {
+  margin-top: 15px;
+  border: 2px solid #297baf;
+  background: transparent;
+  color: black;
+  font-size: large;
+  width: 112px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+.section-1 .container .main button:hover {
+  background-color: #f4a825;
+}
+.section-2 {
+  background: rgba(228, 228, 228, 0.5);
+  height: 1050px;
+}
+.main-2 .container {
+  margin-top: 37px;
+  padding-top: 33px;
+}
+.main-2 .container .heading-2 {
+  text-align: end;
+  border-right: 4px solid #297baf;
+  height: 62px;
+}
+.main-2 .container h1 span {
+  position: relative;
+  right: 12px;
+  font-weight: bold;
+}
+.main-2 .container .row {
+  margin-top: 32px;
+}
+.main-2 .container .row div {
+  width: 30%;
+  height: 392px;
+  background: white;
+  border-radius: 15px;
+}
+.main-2 .container .row img {
+  width: 100%;
+  border-radius: 15px;
+}
+.main-2 .container .row div i {
+  float: right;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+.main-2 .container .row div h6 {
+  float: right;
+  margin-right: 5px;
+  margin-top: 8px;
+}
+.main-2 .container .row div p {
+  margin-top: 38px;
+  text-align: end;
+  color: black;
+  font-weight: 600;
+}
+.section-2 .main-2 .container .heading-3 {
+  text-align: end;
+  border-right: 4px solid #297baf;
+  height: 62px;
+  margin-top: 25px;
+}
+.section-2 .main-2 .container .row-2 div {
+  width: 23%;
+  height: 392px;
+  background: white;
+  border-radius: 15px;
+}
+.section-2 .main-2 .container .row-2 img {
+  width: 50%;
+  border-radius: 15px;
+  float: right;
+  margin: 12px 24px 0px 0px;
+}
+.section-2 .main-2 .container .row-2 h1 {
+  margin-top: 163px;
+  text-align: end;
+  font-size: 33px;
+  font-weight: bold;
+  margin-right: 4px;
+}
+.section-2 .main-2 .container .row-2 p {
+  text-align: end;
+  margin-right: 26px;
+}
+.section-3 .container {
+  margin-top: 28px;
+}
+.section-3 .container .row div {
+  width: 100%;
+}
+.section-3 .container .row div img {
+  width: 100%;
+}
+.section-4 {
+  margin-top: 34px;
+}
+.section-4 .container .heading-4 {
+  text-align: end;
+  border-right: 4px solid #297baf;
+  height: 62px;
+  margin-top: 25px;
+}
+.section-4 .container .heading-4 span {
+  font-weight: bold;
+  margin-right: 10px;
+}
+.section-4 .container .row {
+  margin-top: 48px;
+}
+.section-4 .container .row div {
+  width: 32%;
+}
+.section-4 .container .row img {
+  width: 100%;
+}
+.section-4 .container .row button {
+  text-align: center;
+  width: 100%;
+  height: 48px;
+  border: 0px;
+  border-radius: 0px 0px 17px 17px;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
+.section-5{
+  background: rgba(228, 228, 228, 0.5);
+  height: 608px;
+  margin-bottom: -25px;
+}
+.section-5 .container .row{
+  margin-top: 51px;
+}
+.section-5 .container .heading-5{
+  text-align: end;
+  border-right: 4px solid #297baf;
+  height: 62px;
+  margin-top: 25px;
+}
+.section-5 .container .heading-5 span{
+  font-weight: bold;
+  margin-right: 10px;
+}
+.section-5 .container .row div{
+  width: 32%;
+  background: white;
+  border-radius: 15px 15px 15px 15px;
+  height: 390px;
+  box-shadow: 0px 60px 99px #0000003d;
+}
+.section-5 .container .row img{
+  width: 100%;
+  border-radius: 15px
+}
+.section-5 .container .row h2{
+  text-align: end;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 19px;
+  margin-right: 10px;
+}
+.section-5 .container .row h6{
+  text-align: end;
+  margin-right: 28px;
+  margin-top: 8px;
+}
+.section-5 .container .row i{
+  float: right;
+  margin-right: 10px;
+}
+.section-5 .container .row button{
+  margin-top: 15px;
+  border: 2px solid #297baf;
+  background: transparent;
+  color: black;
+  font-size: large;
+  width: 112px;
+  border-radius: 5px;
+  transition: all 0.5s;
+  float: right;
+  margin-right: 10px;
+}
+
+.section-5 .container .row button:hover {
+  background-color: #f4a825;
+}
+.section-6{
+  background: rgba(228, 228, 228, 0.5);
+  height: 351px;
+}
+.section-6 .container .heading-6{
+  text-align: end;
+  border-right: 4px solid #297baf;
+  height: 62px;
+  margin-top: 25px;
+}
+.section-6 .container .heading-6 span{
+  font-weight: bold;
+  margin-right: 10px;
+}
+.section-6 .container .row div {
+  width: 19%;
+  background: white;
+  border-radius: 15px;
+  margin-top: 51px;
+
+}
+
+.section-6 .container .row img{
+  width: 100%;
+  border-radius: 15px;
+}
+.section-7 .container .row {
+  margin-top: 33px;
+}
+.section-7 .container .row .mapouter iframe{
+  border-radius: 20px;
+  box-shadow: 0px 60px 90px #00000029;
+}
+.section-7 .container .heading-7{
+  text-align: end;
+  border-right: 4px solid #297baf;
+  height: 62px;
+  margin-top: 25px;
+}
+.section-7 .container .heading-7 span{
+  font-weight: bold;
+  margin-right: 10px;
+}
+.section-7 .container .row div{
+  width: 50%;
+  text-align: right;
+  direction: rtl;
+}
+.section-7 .container .row div input{
+  width: 90%;
+  background: #F2F1F5;
+  border: 2px solid #b9b9b9;
+  border-radius: 7px;
+  height: 30px;
+}
+.section-7 .container .row div label,input{
+  display: block;
+  direction: rtl;
+  text-align: right;
+}
